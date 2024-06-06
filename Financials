@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Financial Incentives - Solar Solutions</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Financial Incentives</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="solar-basics.html">Solar Basics</a></li>
+      <li><a href="solar-panels.html">Solar Panels</a></li>
+      <li><a href="inverters.html">Inverters</a></li>
+      <li><a href="installation.html">Installation Process</a></li>
+      <li><a href="financial.html">Financial Incentives</a></li>
+      <li><a href="case-studies.html">Case Studies</a></li>
+      <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section>
+      <h2>Government Subsidies</h2>
+      <p>Overview of MNRE subsidies for residential and commercial installations.</p>
+      <h2>Tax Incentives</h2>
+      <p>Information on tax deductions and benefits for solar investments.</p>
+      <h2>Financing Options</h2>
+      <p>Loans, leases, and PPAs (Power Purchase Agreements).</p>
+    </section>
+  </main>
+  <footer>
+    <p>Contact us: info@solarsolutions.com | +1 234 567 890</p>
+  </footer>
+</body>
+</html>
