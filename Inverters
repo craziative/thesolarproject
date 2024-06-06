@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inverters - Solar Solutions</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Inverters</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="solar-basics.html">Solar Basics</a></li>
+      <li><a href="solar-panels.html">Solar Panels</a></li>
+      <li><a href="inverters.html">Inverters</a></li>
+      <li><a href="installation.html">Installation Process</a></li>
+      <li><a href="financial.html">Financial Incentives</a></li>
+      <li><a href="case-studies.html">Case Studies</a></li>
+      <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section>
+      <h2>Types of Inverters</h2>
+      <ul>
+        <li>String Inverters: Cost-effective, commonly used.</li>
+        <li>Microinverters: Higher efficiency, especially in shaded areas.</li>
+        <li>Power Optimizers: Optimize the performance of each panel.</li>
+      </ul>
+      <h2>Importance of Inverters</h2>
+      <p>Inverters convert the DC electricity produced by solar panels into AC electricity, which is used by most appliances.</p>
+      <h2>Choosing the Right Inverter</h2>
+      <p>Factors to consider: system size, shading, budget, and specific energy needs.</p>
+    </section>
+  </main>
+  <footer>
+    <p>Contact us: info@solarsolutions.com | +1 234 567 890</p>
+  </footer>
+</body>
+</html>
